@@ -3,6 +3,10 @@ This library Updates your Video title with price Feed for ethereum from Coin Gec
 usage
 
 mkdir youtube
+
 git clone
+
 sudo chmod +x script.sh
+
+
 

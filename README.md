@@ -26,7 +26,7 @@ visit https://console.cloud.google.com/apis/dashboard and create a new project o
  2. select Application type Desktop App
  3. Provide a name for App and click Create.
  4. Go back to dashboard and look for your app in "Auth 2.0 Client IDs" section.
- 5. Download Credentials file by clicking the download symbol and save it in the youtube folder
+ 5. Download credentials.json file by clicking the download symbol and save it in the youtube folder
 
 ## Setup
 

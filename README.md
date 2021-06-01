@@ -6,6 +6,7 @@ This library Updates your Video title with price Feed for ethereum from Coin Gec
 Make a directory called youtube
 
     mkdir youtube
+    cd youtube
 
 ## Install Google Auth Libraries
 
